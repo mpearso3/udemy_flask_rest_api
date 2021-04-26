@@ -2,11 +2,11 @@
 
 [Tutorial link](https://www.udemy.com/course/rest-api-flask-and-python)
 
-## Tutorial Sections  
-  [Section3](https://github.com/mpearso3/udemy_flask_rest_api/section_3)
-  - Overview: 
-  [Section5](https://github.com/mpearso3/udemy_flask_rest_api/section_5)
-  - Overview:
+## Tutorial Sections
+- [Section3](https://github.com/mpearso3/udemy_flask_rest_api/section_3)
+  - Overview: First REST API
+- [Section5](https://github.com/mpearso3/udemy_flask_rest_api/section_5)
+  - Overview: Storing resources in a SQL database
 
 ## Tools (See Install Guide for details)
 1. Flask - Python web framework
