@@ -20,7 +20,6 @@
 - Setup bashrc and vimrc from my [Github gists](https://gist.github.com/mpearso3/56e607e1f95a3f2b26401a16ab9cdaaa)
 - Install pip (package manager for installing python libraries)
   - `sudo apt install python3-pip`
-- Install flask: `pip3 install flask`
 - Install git: `sudo apt install git`
 - Install virtualenv for building virtual environments
   - `pip3 install virtualenv`
